@@ -1,4 +1,4 @@
-package dddd;
+﻿package dddd;
 
 import static org.junit.Assert.*;
 
@@ -45,7 +45,7 @@ public class tt {
 		a1.setAccountId("1233");
 		
 		AccountRecode a2 = new AccountRecode();
-		a2.setId("222");
+		a2.setId("2222222222222222");
 		
 		list.add(a1);
 		list.add(a2);
